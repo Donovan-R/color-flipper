@@ -35,3 +35,5 @@ btn.addEventListener("click", function () {
   main.style.backgroundColor = randomColor;
   textColor.textContent = randomColor;
 });
+
+// const hexColor=`#${Math.floor(Math.random()*0xffffff).tostring(16)}`;
